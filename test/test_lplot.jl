@@ -13,7 +13,7 @@ include("testing_utils.jl")
 import Dates
 import Distributions
 import Measurements
-import PropDicts
+import PropDicts, JSON
 import RadiationDetectorSignals
 import StatsBase
 import TypedTables
